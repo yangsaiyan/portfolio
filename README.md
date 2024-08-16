@@ -38,15 +38,14 @@ Bachelor of Information Technology (Honours) Communications and Networking
 
 ###Projects
 1. Server-side web application development
-2. 
+ 
    Description: Development a web application with CRUD.
    
    Skills used: Java EE, Bootstrap, PostgreSQL.
 
-4. Front-end web development
-5. 
+2. Front-end web development
+    
    Description: Create a simple website and implementation of facebook iframe api.
    
    Skills: HTML, CSS, JavaScript, JQuery, Bootstrap.
 
-7. 
