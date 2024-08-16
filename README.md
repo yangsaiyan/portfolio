@@ -81,7 +81,7 @@ Bachelor of Information Technology (Honours) Communications and Networking
 
    Description: -Develop a program that will store and manage FICT student information and the books they borrow from library using linked list.
 
-                -Use binary search tree to develop functions according to the questions
+                -Use binary search tree to develop functions according to the questions. [The input of student records from a text file, The storage of student records into a BST, Searching for a student record in a BST]
 
    Skill: C++
 
