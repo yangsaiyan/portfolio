@@ -45,13 +45,17 @@ Bachelor of Information Technology (Honours) Communications and Networking
    
    Skills used: Java EE, Bootstrap, PostgreSQL.
 
-2. Front-end web development
+   https://github.com/yangsaiyan/SpaceZ.git
+
+3. Front-end web development
     
    Description: Create a simple website and implementation of facebook iframe api.
    
    Skills: HTML, CSS, JavaScript, JQuery, Bootstrap.
 
-3. NAT Port Address Translation and NAT Port Forwarding
+   https://github.com/yangsaiyan/Royal-s-House.git
+
+4. NAT Port Address Translation and NAT Port Forwarding
 
    Description: -Setup NAT -Port Address Translation and NAT -Port Forwarding.
    
@@ -65,19 +69,21 @@ Bachelor of Information Technology (Honours) Communications and Networking
 
    Skills: Python
 
-6. Digital Forensics
+   https://github.com/yangsaiyan/compare-hash-python.git
+
+7. Digital Forensics
 
    Description: Perform digital forensics based on a given scenario. Preparation for Investigation, Evidence Acquisition and Analysis, Forensic Tools, Reporting and Documentation.
 
    Skill: -
 
-7. Cybersecurity
+8. Cybersecurity
 
    Description: Brute-force password of docx files, brute-force login web application, exploiting telnet.
 
    Skill: Kali Linux
 
-8. Data Structure and Algorithmic Problem Solving
+9. Data Structure and Algorithmic Problem Solving
 
    Description: -Develop a program that will store and manage FICT student information and the books they borrow from library using linked list.
 
@@ -85,13 +91,19 @@ Bachelor of Information Technology (Honours) Communications and Networking
 
    Skill: C++
 
-9. Object-Oriented Programming
+   https://github.com/yangsaiyan/Student-Book-System.git
+
+   https://github.com/yangsaiyan/binary-search-tree.git
+
+11. Object-Oriented Programming
 
    Desscription: Develop a stock management system
 
    Skill: Java
 
-10. FYP 1 - Digital Student ID using blockchain (Developing)
+   https://github.com/yangsaiyan/Stock-Management-System-Java.git
+
+11. FYP 1 - Digital Student ID using blockchain (Developing)
 
     Description: Create a secure and decentralized digital student id system using blockchain technology.
 
