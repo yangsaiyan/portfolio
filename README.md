@@ -54,31 +54,33 @@ Bachelor of Information Technology (Honours) Communications and Networking
 3. NAT Port Address Translation and NAT Port Forwarding
 
    Description: -Setup NAT -Port Address Translation and NAT -Port Forwarding.
+   
                 -Configure Static NAT-PT and integrate Wireshark.
 
    Skills: Packet Tracer, GNS3, Wireshark
 
-4. Ethical Hacking
+5. Ethical Hacking
 
    Description: Conduct a report on computer and mobile malware and develop a simple program to detect malware by checking files' hash values.
 
    Skills: Python
 
-5. Digital Forensics
+6. Digital Forensics
 
    Description: Perform digital forensics based on a given scenario. Preparation for Investigation, Evidence Acquisition and Analysis, Forensic Tools, Reporting and Documentation.
 
    Skill: -
 
-6. Cybersecurity
+7. Cybersecurity
 
    Description: Brute-force password of docx files, brute-force login web application, exploiting telnet.
 
    Skill: Kali Linux
 
-7. Data Structure and Algorithmic Problem Solving
+8. Data Structure and Algorithmic Problem Solving
 
    Description: -Develop a program that will store and manage FICT student information and the books they borrow from library using linked list.
+
                 -Use binary search tree to develop functions according to the questions
 
    Skill: C++
