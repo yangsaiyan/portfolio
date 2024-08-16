@@ -1,4 +1,4 @@
-### Education:
+# Education:
 
 Bachelor of Information Technology (Honours) Communications and Networking
 
