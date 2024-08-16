@@ -1,8 +1,10 @@
-# Education
+
+
+Education:
 
 Bachelor of Information Technology (Honours) Communications and Networking
 
-### Skills
+Skills:-
 
 1. Programming Languages
 
@@ -40,7 +42,7 @@ Bachelor of Information Technology (Honours) Communications and Networking
    
    Digital Forensic: Understanding workflows and tools such as FTK Imager.
 
-### Projects
+Projects:-
 
 1. Server-side web application development
  
@@ -60,9 +62,7 @@ Bachelor of Information Technology (Honours) Communications and Networking
 
 4. NAT Port Address Translation and NAT Port Forwarding
 
-   Description: -Setup NAT -Port Address Translation and NAT -Port Forwarding.
-   
-                -Configure Static NAT-PT and integrate Wireshark.
+   Description: Setup NAT -Port Address Translation and NAT -Port Forwarding & Configure Static NAT-PT and integrate Wireshark.
 
    Skills: Packet Tracer, GNS3, Wireshark
 
@@ -88,9 +88,7 @@ Bachelor of Information Technology (Honours) Communications and Networking
 
 9. Data Structure and Algorithmic Problem Solving
 
-   Description: -Develop a program that will store and manage FICT student information and the books they borrow from library using linked list.
-
-                -Use binary search tree to develop functions according to the questions. [The input of student records from a text file, The storage of student records into a BST, Searching for a student record in a BST]
+   Description: Develop a program that will store and manage FICT student information and the books they borrow from library using linked list & Use binary search tree to develop functions according to the questions. [The input of student records from a text file, The storage of student records into a BST, Searching for a student record in a BST]
 
    Skill: C++
 
@@ -100,11 +98,11 @@ Bachelor of Information Technology (Honours) Communications and Networking
 
 11. Object-Oriented Programming
 
-   Desscription: Develop a stock management system
+    Desscription: Develop a stock management system
 
-   Skill: Java
+    Skill: Java
 
-   https://github.com/yangsaiyan/Stock-Management-System-Java.git
+    https://github.com/yangsaiyan/Stock-Management-System-Java.git
 
 11. FYP 1 - Digital Student ID using blockchain (Developing)
 
