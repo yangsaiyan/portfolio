@@ -1,10 +1,8 @@
-
-
-Education:
+### Education:
 
 Bachelor of Information Technology (Honours) Communications and Networking
 
-Skills:-
+# Skills:-
 
 1. Programming Languages
 
@@ -42,7 +40,7 @@ Skills:-
    
    Digital Forensic: Understanding workflows and tools such as FTK Imager.
 
-Projects:-
+# Projects:-
 
 1. Server-side web application development
  
