@@ -14,15 +14,19 @@ Bachelor of Information Technology (Honours) Communications and Networking
    
    Python: Machine Learning.
    
-3. Web & Mobile Development
+2. Web & Mobile Development
    
    HTML/CSS/JavaScript/Bootstrap: Frontend development with responsive design
    
    React Native: Frontend for mobile application.
    
    React Js: Frontend for web application.
+
+3. Flow-based programming
+
+   Node-Red
    
-5. Blockchain Development
+4. Blockchain Development
    
    Ethereum Solidity: Writing and deploying smart contracts.
    
@@ -30,7 +34,7 @@ Bachelor of Information Technology (Honours) Communications and Networking
    
    Wagmi: Interacting with blockchain with typescript.
    
-7. Networking & Cybersecurity
+5. Networking & Cybersecurity
    
    Networking: Understanding of networking knowledge for CCNA.
    
@@ -50,7 +54,7 @@ Bachelor of Information Technology (Honours) Communications and Networking
 
    https://github.com/yangsaiyan/SpaceZ.git
 
-3. Front-end web development
+2. Front-end web development
     
    Description: Create a simple website and implementation of facebook iframe api.
    
@@ -58,13 +62,13 @@ Bachelor of Information Technology (Honours) Communications and Networking
 
    https://github.com/yangsaiyan/Royal-s-House.git
 
-4. NAT Port Address Translation and NAT Port Forwarding
+3. NAT Port Address Translation and NAT Port Forwarding
 
    Description: Setup NAT -Port Address Translation and NAT -Port Forwarding & Configure Static NAT-PT and integrate Wireshark.
 
    Skills: Packet Tracer, GNS3, Wireshark
 
-5. Ethical Hacking
+4. Ethical Hacking
 
    Description: Conduct a report on computer and mobile malware and develop a simple program to detect malware by checking files' hash values.
 
@@ -72,19 +76,19 @@ Bachelor of Information Technology (Honours) Communications and Networking
 
    https://github.com/yangsaiyan/compare-hash-python.git
 
-7. Digital Forensics
+5. Digital Forensics
 
    Description: Perform digital forensics based on a given scenario. Preparation for Investigation, Evidence Acquisition and Analysis, Forensic Tools, Reporting and Documentation.
 
    Skill: -
 
-8. Cybersecurity
+6. Cybersecurity
 
    Description: Brute-force password of docx files, brute-force login web application, exploiting telnet.
 
    Skill: Kali Linux
 
-9. Data Structure and Algorithmic Problem Solving
+7. Data Structure and Algorithmic Problem Solving
 
    Description: Develop a program that will store and manage FICT student information and the books they borrow from library using linked list & Use binary search tree to develop functions according to the questions. [The input of student records from a text file, The storage of student records into a BST, Searching for a student record in a BST]
 
@@ -94,7 +98,7 @@ Bachelor of Information Technology (Honours) Communications and Networking
 
    https://github.com/yangsaiyan/binary-search-tree.git
 
-11. Object-Oriented Programming
+8. Object-Oriented Programming
 
     Desscription: Develop a stock management system
 
@@ -102,7 +106,7 @@ Bachelor of Information Technology (Honours) Communications and Networking
 
     https://github.com/yangsaiyan/Stock-Management-System-Java.git
 
-11. FYP 1 - Digital Student ID using blockchain (Developing)
+9. FYP 1 - Digital Student ID using blockchain (Developing)
 
     Description: Create a secure and decentralized digital student id system using blockchain technology.
 
