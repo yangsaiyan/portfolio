@@ -106,8 +106,15 @@ Bachelor of Information Technology (Honours) Communications and Networking
 
     https://github.com/yangsaiyan/Stock-Management-System-Java.git
 
-9. FYP 1 - Digital Student ID using blockchain (Developing)
+9. Mini-Project
+
+    Description: IoT - Office (Sensors - Brightness, Temperature, Air Qaulity) Office equipment automation.
+
+   Skill: Node-Red, MQTT, Telegram bot, Influx DB
+
+11. FYP 1 - Digital Student ID using blockchain (Developing)
 
     Description: Create a secure and decentralized digital student id system using blockchain technology.
 
     Skills: React Js, React Native, Solidity, Hardhat.
+
