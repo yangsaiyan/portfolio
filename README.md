@@ -108,7 +108,7 @@ Bachelor of Information Technology (Honours) Communications and Networking
 
 9. Mini-Project
 
-    Description: IoT - Office (Sensors - Brightness, Temperature, Air Qaulity) Office equipment automation.
+    Description: IoT - Office (Sensors - Brightness, Temperature, Air Quality) Office equipment automation.
 
    Skill: Node-Red, MQTT, Telegram bot, Influx DB
 
