@@ -108,9 +108,11 @@ Bachelor of Information Technology (Honours) Communications and Networking
 
 9. Mini-Project
 
-    Description: IoT - Office (Sensors - Brightness, Temperature, Air Quality) Office equipment automation.
+   Description: IoT - Office (Sensors - Brightness, Temperature, Air Quality) Office equipment automation.
 
-   Skill: Node-Red, MQTT, Telegram bot, Influx DB
+   Skill: Node-Red, MQTT, Telegram bot, Influx DB, JavaScript
+   
+   https://github.com/yangsaiyan/node-red-brightness-temperature-air-quality.git
 
 11. FYP 1 - Digital Student ID using blockchain (Developing)
 
