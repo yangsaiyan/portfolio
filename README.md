@@ -118,7 +118,7 @@ Bachelor of Information Technology (Honours) Communications and Networking
 
     Description: Create a secure and decentralized digital student id system using blockchain technology.
 
-    Skills: Next Js, React Native, Solidity, Hardhat, World ID.
+    Skills: Next Js, React Native, Solidity, Hardhat, World ID, Material-UI.
 
     https://github.com/yangsaiyan/DSID
 
