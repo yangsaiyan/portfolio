@@ -114,9 +114,9 @@ Bachelor of Information Technology (Honours) Communications and Networking
    
    https://github.com/yangsaiyan/node-red-brightness-temperature-air-quality.git
 
-11. FYP 1 - Digital Student ID using blockchain (Developing)
+11. FYP 2 - Digital Student ID using blockchain (Developing)
 
     Description: Create a secure and decentralized digital student id system using blockchain technology.
 
-    Skills: React Js, React Native, Solidity, Hardhat.
+    Skills: Next Js, React Native, Solidity, Hardhat, World ID.
 
