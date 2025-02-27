@@ -16,7 +16,7 @@ Bachelor of Information Technology (Honours) Communications and Networking
    
 2. Web & Mobile Development
    
-   HTML/CSS/JavaScript/Bootstrap: Frontend development with responsive design
+   HTML/CSS/JavaScript/Bootstrap/Material UI: Frontend development with responsive design
    
    React Native: Frontend for mobile application.
    
