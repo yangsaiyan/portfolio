@@ -121,6 +121,12 @@ Bachelor of Information Technology (Honours) Communications and Networking
     Skills: Next Js, React Native, Solidity, Hardhat, GunJs, Lit Protocol, Wagmi, Ethers, Material-UI.
 
     https://github.com/yangsaiyan/DSID
+
+    https://github.com/yangsaiyan/DSID_Mobile_Application_ReactNative
+
+    https://github.com/yangsaiyan/DSID_Smart_Contracts_Solidity
+
+    https://github.com/yangsaiyan/DSID_GUN_PEER
     
     https://dsid-staging.vercel.app/         (Developing)
 
