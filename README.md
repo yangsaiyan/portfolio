@@ -54,7 +54,9 @@ Bachelor of Information Technology (Honours) Communications and Networking
 
    https://github.com/yangsaiyan/SpaceZ.git
 
-2. Front-end web development
+   Website: https://space-z-ten.vercel.app/
+
+3. Front-end web development
     
    Description: Create a simple website and implementation of facebook iframe api.
    
@@ -62,13 +64,17 @@ Bachelor of Information Technology (Honours) Communications and Networking
 
    https://github.com/yangsaiyan/Royal-s-House.git
 
-3. NAT Port Address Translation and NAT Port Forwarding
+   Website (Skip Login/Register): https://royal-s-house.vercel.app/
+
+   Website (Login/Register): https://royal-s-house.vercel.app/welcome.html
+
+5. NAT Port Address Translation and NAT Port Forwarding
 
    Description: Setup NAT -Port Address Translation and NAT -Port Forwarding & Configure Static NAT-PT and integrate Wireshark.
 
    Skills: Packet Tracer, GNS3, Wireshark
 
-4. Ethical Hacking
+6. Ethical Hacking
 
    Description: Conduct a report on computer and mobile malware and develop a simple program to detect malware by checking files' hash values.
 
@@ -76,19 +82,19 @@ Bachelor of Information Technology (Honours) Communications and Networking
 
    https://github.com/yangsaiyan/compare-hash-python.git
 
-5. Digital Forensics
+7. Digital Forensics
 
    Description: Perform digital forensics based on a given scenario. Preparation for Investigation, Evidence Acquisition and Analysis, Forensic Tools, Reporting and Documentation.
 
    Skill: -
 
-6. Cybersecurity
+8. Cybersecurity
 
    Description: Brute-force password of docx files, brute-force login web application, exploiting telnet.
 
    Skill: Kali Linux
 
-7. Data Structure and Algorithmic Problem Solving
+9. Data Structure and Algorithmic Problem Solving
 
    Description: Develop a program that will store and manage FICT student information and the books they borrow from library using linked list & Use binary search tree to develop functions according to the questions. [The input of student records from a text file, The storage of student records into a BST, Searching for a student record in a BST]
 
@@ -98,7 +104,7 @@ Bachelor of Information Technology (Honours) Communications and Networking
 
    https://github.com/yangsaiyan/binary-search-tree.git
 
-8. Object-Oriented Programming
+10. Object-Oriented Programming
 
     Desscription: Develop a stock management system
 
@@ -106,7 +112,7 @@ Bachelor of Information Technology (Honours) Communications and Networking
 
     https://github.com/yangsaiyan/Stock-Management-System-Java.git
 
-9. Mini-Project
+11. Mini-Project
 
    Description: IoT - Office (Sensors - Brightness, Temperature, Air Quality) Office equipment automation.
 
@@ -128,5 +134,5 @@ Bachelor of Information Technology (Honours) Communications and Networking
 
     https://github.com/yangsaiyan/DSID_GUN_PEER
     
-    https://dsid-staging.vercel.app/         (Developing)
+    Website: https://dsid-staging.vercel.app/         (Developing)
 
