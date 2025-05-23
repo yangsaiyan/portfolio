@@ -120,19 +120,19 @@ Bachelor of Information Technology (Honours) Communications and Networking
    
    https://github.com/yangsaiyan/node-red-brightness-temperature-air-quality.git
 
-11. FYP 2 - Digital Student ID using blockchain (Developing)
+11. FYP 2 - Digital Student ID using blockchain
 
     Description: Create a secure and decentralized digital student id system using blockchain technology.
 
     Skills: Next Js, React Native, Solidity, Hardhat, GunJs, Lit Protocol, Wagmi, Ethers, Material-UI.
 
-    https://github.com/yangsaiyan/DSID         (Developing)
+    https://github.com/yangsaiyan/DSID
 
-    https://github.com/yangsaiyan/DSID_Mobile_Application_ReactNative         (Developing)
+    https://github.com/yangsaiyan/DSID_Mobile_Application_ReactNative
 
-    https://github.com/yangsaiyan/DSID_Smart_Contracts_Solidity         (Developing)
+    https://github.com/yangsaiyan/DSID_Smart_Contracts_Solidity
 
     https://github.com/yangsaiyan/DSID_GUN_PEER
     
-    Website: https://dsid-staging.vercel.app/         (Developing)
+    Website: https://dsid-staging.vercel.app/
 
